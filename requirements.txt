@@ -1,0 +1,7 @@
+docx==0.2.4
+edge_tts==6.1.9
+fitz==0.0.1.dev2
+Flask==3.0.0
+Flask_RESTful==0.3.10
+python_docx==0.8.11
+Werkzeug==3.0.1
